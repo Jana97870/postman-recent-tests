@@ -1,22 +1,22 @@
 # Postman API Tests
 
-To repozytorium zawiera moją kolekcję testów API stworzonych w Postmanie.
+This repository contains my collection of API tests created in Postman.
 
-## Kolekcja
+## Collection
 
-Plik kolekcji: `Postman Practice [Yana Maslakova].postman_collection.json`
+Collection file: `Postman Practice [Yana Maslakova].postman_collection.json`
 
-Możesz pobrać plik i zaimportować go do Postmana, aby zobaczyć testy.
+You can download the file and import it into Postman to view the tests.
 
-## Opis
+## Description
 
-- Testy sprawdzają różne endpointy API.
-- Pokazują umiejętność pracy z żądaniami GET/POST/PUT/DELETE.
-- Testy automatyczne w Postmanie (np. sprawdzanie statusów, treści odpowiedzi).
+- These tests test various API endpoints.
+- They demonstrate the ability to work with GET/POST/PUT/DELETE requests.
+- Automated tests in Postman (e.g., checking statuses, response content).
 
-## Jak używać
+## How to use
 
-1. Pobierz plik `.json` z tego repozytorium.
-2. Otwórz Postmana.
-3. Wybierz `Import` → `Upload Files` → wybierz pobrany plik.
-4. Teraz możesz uruchamiać testy w Postmanie.
+1. Download the `.json` file from this repository.
+2. Open Postman.
+3. Select `Import` → `Upload Files` → select the downloaded file.
+4. Now you can run your tests in Postman.
